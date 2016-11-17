@@ -1,0 +1,26 @@
+{
+  "name": "node-chipotle",
+  "version": "1.0.0",
+  "description": "An api that hits the endpoints of the new chipotle website",
+  "main": "node-chipotle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annamcmahon/node-chipotle.git"
+  },
+  "keywords": [
+    "chipotle"
+  ],
+  "author": "Anna McMahon <anna.jo.mcmahon@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annamcmahon/node-chipotle/issues"
+  },
+  "homepage": "https://github.com/annamcmahon/node-chipotle",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "request": "^2.78.0"
+  }
+}
